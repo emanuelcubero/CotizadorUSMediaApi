@@ -1,0 +1,59 @@
+/* Estilo general para la aplicación */
+body {
+  background-color: #FF5A00; /* Color naranja para el fondo */
+  margin: 0;
+  font-family: Arial, sans-serif;
+  color: #ffffff; /* Texto blanco para mejor contraste */
+}
+
+/* Estilo del encabezado */
+header {
+  background-color: #FF5A00; /* Fondo naranja */
+  padding: 20px;
+  text-align: center;
+  border-bottom: 2px solid #e04a00; /* Línea de separación más oscura para definir mejor el header */
+}
+
+nav {
+  display: flex;
+  justify-content: space-around;
+  padding: 10px 0;
+}
+
+  nav a {
+    color: #ffffff; /* Texto blanco para los enlaces */
+    text-decoration: none;
+    font-weight: bold;
+  }
+
+    nav a:hover {
+      text-decoration: underline;
+    }
+
+/* Contenedor principal para el contenido */
+.content {
+  padding: 20px;
+  background-color: #ffffff; /* Fondo blanco para el contenido principal */
+  margin: 20px auto;
+  width: 80%;
+  border-radius: 10px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Sombra para dar profundidad */
+  color: #333333; /* Texto negro para el contenido principal */
+}
+
+/* Estilos responsivos para mejorar la visualización en dispositivos móviles */
+@media (max-width: 768px) {
+  nav {
+    flex-direction: column;
+    align-items: center;
+  }
+
+  .content {
+    width: 90%; /* Ancho más amplio para pantallas pequeñas */
+    padding: 15px;
+  }
+
+  nav a {
+    margin-bottom: 10px;
+  }
+}

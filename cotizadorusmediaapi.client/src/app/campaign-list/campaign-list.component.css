@@ -1,0 +1,36 @@
+/* Estilos para la tabla de la lista de campañas */
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 20px;
+  background-color: #ffffff; /* Fondo blanco para la tabla */
+  border-radius: 8px; /* Bordes redondeados */
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Sombra para elevar visualmente la tabla */
+}
+
+th, td {
+  padding: 12px 15px;
+  border-bottom: 1px solid #dddddd; /* Línea de separación gris claro */
+  text-align: left;
+}
+
+th {
+  background-color: #FF5A00; /* Color de fondo de encabezado similar al naranja del sitio */
+  color: white;
+  font-weight: bold;
+}
+
+td {
+  color: #333333; /* Color de texto principal para las celdas */
+}
+
+tr:hover {
+  background-color: #f9f9f9; /* Efecto hover para resaltar fila */
+}
+
+p {
+  color: #FF5A00; /* Texto de color naranja si no hay campañas */
+  font-style: italic;
+  margin-top: 20px;
+  text-align: center;
+}

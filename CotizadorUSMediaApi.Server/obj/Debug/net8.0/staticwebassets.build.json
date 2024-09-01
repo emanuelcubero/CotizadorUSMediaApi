@@ -1,0 +1,23 @@
+{
+  "Version": 1,
+  "Hash": "AJ5eRtN6l4b6PByP8OWDAEloDJNtyfVe6CfwSMrSJ9k=",
+  "Source": "CotizadorUSMediaApi.Server",
+  "BasePath": "_content/CotizadorUSMediaApi.Server",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [
+    {
+      "Identity": "C:\\Users\\emanuel.cubero\\source\\repos\\CotizadorUSMediaApi\\cotizadorusmediaapi.client\\cotizadorusmediaapi.client.esproj",
+      "Version": 2,
+      "Source": "cotizadorusmediaapi.client",
+      "GetPublishAssetsTargets": "GetCurrentProjectPublishStaticWebAssetItems",
+      "AdditionalPublishProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalPublishPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier;SelfContained",
+      "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
+      "AdditionalBuildProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier;SelfContained"
+    }
+  ],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

@@ -1,0 +1,25 @@
+# See https://docs.github.com/get-started/getting-started-with-git/ignoring-files for more about ignoring files.
+
+# Archivos generados por Angular
+node_modules/
+dist/
+tmp/
+out-tsc/
+build/
+coverage/
+.angular/
+
+# Archivos de configuración y logs
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Archivos generados por Visual Studio y .NET
+bin/
+obj/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+*.vs/

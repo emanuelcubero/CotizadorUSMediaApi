@@ -1,0 +1,45 @@
+<h2>Create Campaign</h2>
+
+<form (ngSubmit)="onSubmit()" #campaignForm="ngForm">
+  <div>
+    <label for="vendedor">Vendedor:</label>
+    <input type="text" id="vendedor" required [(ngModel)]="campaign.vendedor" name="vendedor">
+  </div>
+
+  <div>
+    <label for="cliente">Cliente:</label>
+    <input type="text" id="cliente" required [(ngModel)]="campaign.cliente" name="cliente">
+  </div>
+
+  <div>
+    <label for="campania">Campaña:</label>
+    <input type="text" id="campania" required [(ngModel)]="campaign.campania" name="campania">
+  </div>
+
+  <div>
+    <label for="anunciante">Anunciante:</label>
+    <input type="text" id="anunciante" required [(ngModel)]="campaign.anunciante" name="anunciante">
+  </div>
+
+  <div>
+    <label for="plataforma">Plataforma:</label>
+    <input type="text" id="plataforma" required [(ngModel)]="campaign.plataforma" name="plataforma">
+  </div>
+
+  <div>
+    <label for="inversion">Inversión:</label>
+    <input type="number" id="inversion" required [(ngModel)]="campaign.inversion" name="inversion">
+  </div>
+
+  <div>
+    <label for="unidades">Unidades:</label>
+    <input type="number" id="unidades" required [(ngModel)]="campaign.unidades" name="unidades">
+  </div>
+
+  <div>
+    <label for="margen">Margen:</label>
+    <input type="number" id="margen" required [(ngModel)]="campaign.margen" name="margen">
+  </div>
+
+  <button type="submit" class="button">Create Campaign</button>
+</form>

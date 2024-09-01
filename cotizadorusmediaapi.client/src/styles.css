@@ -1,0 +1,90 @@
+/* Estilo general del body */
+body {
+  background-color: #FF5A00; /* Color naranja */
+  margin: 0;
+  font-family: Arial, sans-serif;
+  color: #ffffff; /* Texto blanco para que contraste con el fondo naranja */
+}
+
+/* Estilo del encabezado */
+header {
+  background-color: #FF5A00; /* Fondo naranja */
+  padding: 20px;
+  text-align: center;
+}
+
+/* Estilo de la barra de navegación */
+nav {
+  display: flex;
+  justify-content: space-around;
+  padding: 10px 0;
+}
+
+  nav a {
+    color: #ffffff; /* Texto blanco para los enlaces */
+    text-decoration: none;
+    font-weight: bold;
+  }
+
+    nav a:hover {
+      text-decoration: underline;
+    }
+
+/* Contenedor principal para el contenido */
+.content {
+  padding: 20px;
+  background-color: #ffffff; /* Fondo blanco para el contenido */
+  margin: 20px auto;
+  width: 80%;
+  border-radius: 10px;
+  color: #000000; /* Texto negro para que contraste con el fondo blanco */
+}
+
+/* Estilo de las tablas */
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 20px;
+}
+
+th, td {
+  padding: 10px;
+  border: 1px solid #dddddd;
+  text-align: left;
+}
+
+th {
+  background-color: #FF5A00; /* Encabezado de tabla en naranja */
+  color: #ffffff; /* Texto blanco para el encabezado de la tabla */
+}
+
+/* Estilo de los botones */
+.button {
+  background-color: #FF5A00; /* Fondo naranja */
+  color: #ffffff; /* Texto blanco */
+  padding: 10px 20px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+  .button:hover {
+    background-color: #e04a00; /* Cambio de color al pasar el ratón */
+  }
+
+/* Estilos responsivos */
+@media (max-width: 768px) {
+  .content {
+    width: 100%;
+    margin: 0;
+  }
+
+  nav {
+    flex-direction: column;
+    align-items: center;
+  }
+
+  table, th, td {
+    font-size: 12px;
+  }
+}

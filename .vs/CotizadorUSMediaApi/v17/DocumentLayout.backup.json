@@ -1,0 +1,435 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\emanuel.cubero\\source\\repos\\CotizadorUSMediaApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{795280AA-AE41-437E-83A7-2D68EB5A7669}|cotizadorusmediaapi.client\\cotizadorusmediaapi.client.esproj|c:\\users\\emanuel.cubero\\source\\repos\\cotizadorusmediaapi\\cotizadorusmediaapi.client\\src\\app\\app.component.spec.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{795280AA-AE41-437E-83A7-2D68EB5A7669}|cotizadorusmediaapi.client\\cotizadorusmediaapi.client.esproj|solutionrelative:cotizadorusmediaapi.client\\src\\app\\app.component.spec.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{795280AA-AE41-437E-83A7-2D68EB5A7669}|cotizadorusmediaapi.client\\cotizadorusmediaapi.client.esproj|c:\\users\\emanuel.cubero\\source\\repos\\cotizadorusmediaapi\\cotizadorusmediaapi.client\\src\\app\\campaign.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{795280AA-AE41-437E-83A7-2D68EB5A7669}|cotizadorusmediaapi.client\\cotizadorusmediaapi.client.esproj|solutionrelative:cotizadorusmediaapi.client\\src\\app\\campaign.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{795280AA-AE41-437E-83A7-2D68EB5A7669}|cotizadorusmediaapi.client\\cotizadorusmediaapi.client.esproj|c:\\users\\emanuel.cubero\\source\\repos\\cotizadorusmediaapi\\cotizadorusmediaapi.client\\src\\app\\app-routing.module.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{795280AA-AE41-437E-83A7-2D68EB5A7669}|cotizadorusmediaapi.client\\cotizadorusmediaapi.client.esproj|solutionrelative:cotizadorusmediaapi.client\\src\\app\\app-routing.module.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{795280AA-AE41-437E-83A7-2D68EB5A7669}|cotizadorusmediaapi.client\\cotizadorusmediaapi.client.esproj|c:\\users\\emanuel.cubero\\source\\repos\\cotizadorusmediaapi\\cotizadorusmediaapi.client\\src\\app\\app.module.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{795280AA-AE41-437E-83A7-2D68EB5A7669}|cotizadorusmediaapi.client\\cotizadorusmediaapi.client.esproj|solutionrelative:cotizadorusmediaapi.client\\src\\app\\app.module.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{795280AA-AE41-437E-83A7-2D68EB5A7669}|cotizadorusmediaapi.client\\cotizadorusmediaapi.client.esproj|c:\\users\\emanuel.cubero\\source\\repos\\cotizadorusmediaapi\\cotizadorusmediaapi.client\\src\\app\\campaign.service.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{795280AA-AE41-437E-83A7-2D68EB5A7669}|cotizadorusmediaapi.client\\cotizadorusmediaapi.client.esproj|solutionrelative:cotizadorusmediaapi.client\\src\\app\\campaign.service.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{795280AA-AE41-437E-83A7-2D68EB5A7669}|cotizadorusmediaapi.client\\cotizadorusmediaapi.client.esproj|c:\\users\\emanuel.cubero\\source\\repos\\cotizadorusmediaapi\\cotizadorusmediaapi.client\\src\\app\\app.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{795280AA-AE41-437E-83A7-2D68EB5A7669}|cotizadorusmediaapi.client\\cotizadorusmediaapi.client.esproj|solutionrelative:cotizadorusmediaapi.client\\src\\app\\app.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{795280AA-AE41-437E-83A7-2D68EB5A7669}|cotizadorusmediaapi.client\\cotizadorusmediaapi.client.esproj|c:\\users\\emanuel.cubero\\source\\repos\\cotizadorusmediaapi\\cotizadorusmediaapi.client\\src\\app\\app.component.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{795280AA-AE41-437E-83A7-2D68EB5A7669}|cotizadorusmediaapi.client\\cotizadorusmediaapi.client.esproj|solutionrelative:cotizadorusmediaapi.client\\src\\app\\app.component.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{795280AA-AE41-437E-83A7-2D68EB5A7669}|cotizadorusmediaapi.client\\cotizadorusmediaapi.client.esproj|c:\\users\\emanuel.cubero\\source\\repos\\cotizadorusmediaapi\\cotizadorusmediaapi.client\\src\\app\\campaign-form\\campaign-form.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{795280AA-AE41-437E-83A7-2D68EB5A7669}|cotizadorusmediaapi.client\\cotizadorusmediaapi.client.esproj|solutionrelative:cotizadorusmediaapi.client\\src\\app\\campaign-form\\campaign-form.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{795280AA-AE41-437E-83A7-2D68EB5A7669}|cotizadorusmediaapi.client\\cotizadorusmediaapi.client.esproj|c:\\users\\emanuel.cubero\\source\\repos\\cotizadorusmediaapi\\cotizadorusmediaapi.client\\src\\app\\campaign-form\\campaign-form.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{795280AA-AE41-437E-83A7-2D68EB5A7669}|cotizadorusmediaapi.client\\cotizadorusmediaapi.client.esproj|solutionrelative:cotizadorusmediaapi.client\\src\\app\\campaign-form\\campaign-form.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{795280AA-AE41-437E-83A7-2D68EB5A7669}|cotizadorusmediaapi.client\\cotizadorusmediaapi.client.esproj|c:\\users\\emanuel.cubero\\source\\repos\\cotizadorusmediaapi\\cotizadorusmediaapi.client\\src\\app\\campaign-list\\campaign-list.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{795280AA-AE41-437E-83A7-2D68EB5A7669}|cotizadorusmediaapi.client\\cotizadorusmediaapi.client.esproj|solutionrelative:cotizadorusmediaapi.client\\src\\app\\campaign-list\\campaign-list.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{795280AA-AE41-437E-83A7-2D68EB5A7669}|cotizadorusmediaapi.client\\cotizadorusmediaapi.client.esproj|c:\\users\\emanuel.cubero\\source\\repos\\cotizadorusmediaapi\\cotizadorusmediaapi.client\\src\\app\\campaign-form\\campaign-form.component.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{795280AA-AE41-437E-83A7-2D68EB5A7669}|cotizadorusmediaapi.client\\cotizadorusmediaapi.client.esproj|solutionrelative:cotizadorusmediaapi.client\\src\\app\\campaign-form\\campaign-form.component.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{795280AA-AE41-437E-83A7-2D68EB5A7669}|cotizadorusmediaapi.client\\cotizadorusmediaapi.client.esproj|c:\\users\\emanuel.cubero\\source\\repos\\cotizadorusmediaapi\\cotizadorusmediaapi.client\\src\\app\\campaign-list\\campaign-list.component.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{795280AA-AE41-437E-83A7-2D68EB5A7669}|cotizadorusmediaapi.client\\cotizadorusmediaapi.client.esproj|solutionrelative:cotizadorusmediaapi.client\\src\\app\\campaign-list\\campaign-list.component.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{795280AA-AE41-437E-83A7-2D68EB5A7669}|cotizadorusmediaapi.client\\cotizadorusmediaapi.client.esproj|c:\\users\\emanuel.cubero\\source\\repos\\cotizadorusmediaapi\\cotizadorusmediaapi.client\\src\\app\\campaign-list\\campaign-list.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{795280AA-AE41-437E-83A7-2D68EB5A7669}|cotizadorusmediaapi.client\\cotizadorusmediaapi.client.esproj|solutionrelative:cotizadorusmediaapi.client\\src\\app\\campaign-list\\campaign-list.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{795280AA-AE41-437E-83A7-2D68EB5A7669}|cotizadorusmediaapi.client\\cotizadorusmediaapi.client.esproj|c:\\users\\emanuel.cubero\\source\\repos\\cotizadorusmediaapi\\cotizadorusmediaapi.client\\src\\app\\campaign-form\\campaign-form.component.spec.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{795280AA-AE41-437E-83A7-2D68EB5A7669}|cotizadorusmediaapi.client\\cotizadorusmediaapi.client.esproj|solutionrelative:cotizadorusmediaapi.client\\src\\app\\campaign-form\\campaign-form.component.spec.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{795280AA-AE41-437E-83A7-2D68EB5A7669}|cotizadorusmediaapi.client\\cotizadorusmediaapi.client.esproj|c:\\users\\emanuel.cubero\\source\\repos\\cotizadorusmediaapi\\cotizadorusmediaapi.client\\src\\app\\app.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{795280AA-AE41-437E-83A7-2D68EB5A7669}|cotizadorusmediaapi.client\\cotizadorusmediaapi.client.esproj|solutionrelative:cotizadorusmediaapi.client\\src\\app\\app.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{795280AA-AE41-437E-83A7-2D68EB5A7669}|cotizadorusmediaapi.client\\cotizadorusmediaapi.client.esproj|c:\\users\\emanuel.cubero\\source\\repos\\cotizadorusmediaapi\\cotizadorusmediaapi.client\\src\\styles.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{795280AA-AE41-437E-83A7-2D68EB5A7669}|cotizadorusmediaapi.client\\cotizadorusmediaapi.client.esproj|solutionrelative:cotizadorusmediaapi.client\\src\\styles.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{795280AA-AE41-437E-83A7-2D68EB5A7669}|cotizadorusmediaapi.client\\cotizadorusmediaapi.client.esproj|c:\\users\\emanuel.cubero\\source\\repos\\cotizadorusmediaapi\\cotizadorusmediaapi.client\\angular.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{795280AA-AE41-437E-83A7-2D68EB5A7669}|cotizadorusmediaapi.client\\cotizadorusmediaapi.client.esproj|solutionrelative:cotizadorusmediaapi.client\\angular.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{795280AA-AE41-437E-83A7-2D68EB5A7669}|cotizadorusmediaapi.client\\cotizadorusmediaapi.client.esproj|c:\\users\\emanuel.cubero\\source\\repos\\cotizadorusmediaapi\\cotizadorusmediaapi.client\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{795280AA-AE41-437E-83A7-2D68EB5A7669}|cotizadorusmediaapi.client\\cotizadorusmediaapi.client.esproj|solutionrelative:cotizadorusmediaapi.client\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\emanuel.cubero\\source\\repos\\CotizadorUSMediaApi\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BF12A3E-A94A-4C21-8A06-92835DE557A7}|CotizadorUSMediaApi.Server\\CotizadorUSMediaApi.Server.csproj|c:\\users\\emanuel.cubero\\source\\repos\\cotizadorusmediaapi\\cotizadorusmediaapi.server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BF12A3E-A94A-4C21-8A06-92835DE557A7}|CotizadorUSMediaApi.Server\\CotizadorUSMediaApi.Server.csproj|solutionrelative:cotizadorusmediaapi.server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BF12A3E-A94A-4C21-8A06-92835DE557A7}|CotizadorUSMediaApi.Server\\CotizadorUSMediaApi.Server.csproj|c:\\users\\emanuel.cubero\\source\\repos\\cotizadorusmediaapi\\cotizadorusmediaapi.server\\controllers\\campaigncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BF12A3E-A94A-4C21-8A06-92835DE557A7}|CotizadorUSMediaApi.Server\\CotizadorUSMediaApi.Server.csproj|solutionrelative:cotizadorusmediaapi.server\\controllers\\campaigncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{795280AA-AE41-437E-83A7-2D68EB5A7669}|cotizadorusmediaapi.client\\cotizadorusmediaapi.client.esproj|c:\\users\\emanuel.cubero\\source\\repos\\cotizadorusmediaapi\\cotizadorusmediaapi.client\\src\\proxy.conf.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{795280AA-AE41-437E-83A7-2D68EB5A7669}|cotizadorusmediaapi.client\\cotizadorusmediaapi.client.esproj|solutionrelative:cotizadorusmediaapi.client\\src\\proxy.conf.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BF12A3E-A94A-4C21-8A06-92835DE557A7}|CotizadorUSMediaApi.Server\\CotizadorUSMediaApi.Server.csproj|c:\\users\\emanuel.cubero\\source\\repos\\cotizadorusmediaapi\\cotizadorusmediaapi.server\\models\\campaign.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BF12A3E-A94A-4C21-8A06-92835DE557A7}|CotizadorUSMediaApi.Server\\CotizadorUSMediaApi.Server.csproj|solutionrelative:cotizadorusmediaapi.server\\models\\campaign.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BF12A3E-A94A-4C21-8A06-92835DE557A7}|CotizadorUSMediaApi.Server\\CotizadorUSMediaApi.Server.csproj|c:\\users\\emanuel.cubero\\source\\repos\\cotizadorusmediaapi\\cotizadorusmediaapi.server\\cotizadorusmediaapi.server.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{6BF12A3E-A94A-4C21-8A06-92835DE557A7}|CotizadorUSMediaApi.Server\\CotizadorUSMediaApi.Server.csproj|solutionrelative:cotizadorusmediaapi.server\\cotizadorusmediaapi.server.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "app.component.spec.ts",
+              "DocumentMoniker": "C:\\Users\\emanuel.cubero\\source\\repos\\CotizadorUSMediaApi\\cotizadorusmediaapi.client\\src\\app\\app.component.spec.ts",
+              "RelativeDocumentMoniker": "cotizadorusmediaapi.client\\src\\app\\app.component.spec.ts",
+              "ToolTip": "C:\\Users\\emanuel.cubero\\source\\repos\\CotizadorUSMediaApi\\cotizadorusmediaapi.client\\src\\app\\app.component.spec.ts",
+              "RelativeToolTip": "cotizadorusmediaapi.client\\src\\app\\app.component.spec.ts",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABQAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-09-01T21:34:19.102Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "app.component.css",
+              "DocumentMoniker": "C:\\Users\\emanuel.cubero\\source\\repos\\CotizadorUSMediaApi\\cotizadorusmediaapi.client\\src\\app\\app.component.css",
+              "RelativeDocumentMoniker": "cotizadorusmediaapi.client\\src\\app\\app.component.css",
+              "ToolTip": "C:\\Users\\emanuel.cubero\\source\\repos\\CotizadorUSMediaApi\\cotizadorusmediaapi.client\\src\\app\\app.component.css",
+              "RelativeToolTip": "cotizadorusmediaapi.client\\src\\app\\app.component.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACwAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-09-01T21:31:33.996Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "app.module.ts",
+              "DocumentMoniker": "C:\\Users\\emanuel.cubero\\source\\repos\\CotizadorUSMediaApi\\cotizadorusmediaapi.client\\src\\app\\app.module.ts",
+              "RelativeDocumentMoniker": "cotizadorusmediaapi.client\\src\\app\\app.module.ts",
+              "ToolTip": "C:\\Users\\emanuel.cubero\\source\\repos\\CotizadorUSMediaApi\\cotizadorusmediaapi.client\\src\\app\\app.module.ts",
+              "RelativeToolTip": "cotizadorusmediaapi.client\\src\\app\\app.module.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-08-31T18:47:46.601Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "campaign-list.component.html",
+              "DocumentMoniker": "C:\\Users\\emanuel.cubero\\source\\repos\\CotizadorUSMediaApi\\cotizadorusmediaapi.client\\src\\app\\campaign-list\\campaign-list.component.html",
+              "RelativeDocumentMoniker": "cotizadorusmediaapi.client\\src\\app\\campaign-list\\campaign-list.component.html",
+              "ToolTip": "C:\\Users\\emanuel.cubero\\source\\repos\\CotizadorUSMediaApi\\cotizadorusmediaapi.client\\src\\app\\campaign-list\\campaign-list.component.html",
+              "RelativeToolTip": "cotizadorusmediaapi.client\\src\\app\\campaign-list\\campaign-list.component.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-08-31T18:49:12.837Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "campaign-form.component.ts",
+              "DocumentMoniker": "C:\\Users\\emanuel.cubero\\source\\repos\\CotizadorUSMediaApi\\cotizadorusmediaapi.client\\src\\app\\campaign-form\\campaign-form.component.ts",
+              "RelativeDocumentMoniker": "cotizadorusmediaapi.client\\src\\app\\campaign-form\\campaign-form.component.ts",
+              "ToolTip": "C:\\Users\\emanuel.cubero\\source\\repos\\CotizadorUSMediaApi\\cotizadorusmediaapi.client\\src\\app\\campaign-form\\campaign-form.component.ts",
+              "RelativeToolTip": "cotizadorusmediaapi.client\\src\\app\\campaign-form\\campaign-form.component.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-08-31T19:32:33.257Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "campaign.ts",
+              "DocumentMoniker": "C:\\Users\\emanuel.cubero\\source\\repos\\CotizadorUSMediaApi\\cotizadorusmediaapi.client\\src\\app\\campaign.ts",
+              "RelativeDocumentMoniker": "cotizadorusmediaapi.client\\src\\app\\campaign.ts",
+              "ToolTip": "C:\\Users\\emanuel.cubero\\source\\repos\\CotizadorUSMediaApi\\cotizadorusmediaapi.client\\src\\app\\campaign.ts",
+              "RelativeToolTip": "cotizadorusmediaapi.client\\src\\app\\campaign.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-08-31T15:37:59.654Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "app.component.ts",
+              "DocumentMoniker": "C:\\Users\\emanuel.cubero\\source\\repos\\CotizadorUSMediaApi\\cotizadorusmediaapi.client\\src\\app\\app.component.ts",
+              "RelativeDocumentMoniker": "cotizadorusmediaapi.client\\src\\app\\app.component.ts",
+              "ToolTip": "C:\\Users\\emanuel.cubero\\source\\repos\\CotizadorUSMediaApi\\cotizadorusmediaapi.client\\src\\app\\app.component.ts",
+              "RelativeToolTip": "cotizadorusmediaapi.client\\src\\app\\app.component.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-08-31T19:14:59.323Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "app-routing.module.ts",
+              "DocumentMoniker": "C:\\Users\\emanuel.cubero\\source\\repos\\CotizadorUSMediaApi\\cotizadorusmediaapi.client\\src\\app\\app-routing.module.ts",
+              "RelativeDocumentMoniker": "cotizadorusmediaapi.client\\src\\app\\app-routing.module.ts",
+              "ToolTip": "C:\\Users\\emanuel.cubero\\source\\repos\\CotizadorUSMediaApi\\cotizadorusmediaapi.client\\src\\app\\app-routing.module.ts",
+              "RelativeToolTip": "cotizadorusmediaapi.client\\src\\app\\app-routing.module.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-09-01T20:59:46.533Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "campaign.service.ts",
+              "DocumentMoniker": "C:\\Users\\emanuel.cubero\\source\\repos\\CotizadorUSMediaApi\\cotizadorusmediaapi.client\\src\\app\\campaign.service.ts",
+              "RelativeDocumentMoniker": "cotizadorusmediaapi.client\\src\\app\\campaign.service.ts",
+              "ToolTip": "C:\\Users\\emanuel.cubero\\source\\repos\\CotizadorUSMediaApi\\cotizadorusmediaapi.client\\src\\app\\campaign.service.ts",
+              "RelativeToolTip": "cotizadorusmediaapi.client\\src\\app\\campaign.service.ts",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACcAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-08-31T15:34:21.719Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "campaign-form.component.css",
+              "DocumentMoniker": "C:\\Users\\emanuel.cubero\\source\\repos\\CotizadorUSMediaApi\\cotizadorusmediaapi.client\\src\\app\\campaign-form\\campaign-form.component.css",
+              "RelativeDocumentMoniker": "cotizadorusmediaapi.client\\src\\app\\campaign-form\\campaign-form.component.css",
+              "ToolTip": "C:\\Users\\emanuel.cubero\\source\\repos\\CotizadorUSMediaApi\\cotizadorusmediaapi.client\\src\\app\\campaign-form\\campaign-form.component.css",
+              "RelativeToolTip": "cotizadorusmediaapi.client\\src\\app\\campaign-form\\campaign-form.component.css",
+              "ViewState": "AgIAABUAAAAAAAAAAAAgwD4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-09-01T21:29:04.511Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "campaign-form.component.html",
+              "DocumentMoniker": "C:\\Users\\emanuel.cubero\\source\\repos\\CotizadorUSMediaApi\\cotizadorusmediaapi.client\\src\\app\\campaign-form\\campaign-form.component.html",
+              "RelativeDocumentMoniker": "cotizadorusmediaapi.client\\src\\app\\campaign-form\\campaign-form.component.html",
+              "ToolTip": "C:\\Users\\emanuel.cubero\\source\\repos\\CotizadorUSMediaApi\\cotizadorusmediaapi.client\\src\\app\\campaign-form\\campaign-form.component.html",
+              "RelativeToolTip": "cotizadorusmediaapi.client\\src\\app\\campaign-form\\campaign-form.component.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-08-31T19:32:14.93Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "campaign-list.component.css",
+              "DocumentMoniker": "C:\\Users\\emanuel.cubero\\source\\repos\\CotizadorUSMediaApi\\cotizadorusmediaapi.client\\src\\app\\campaign-list\\campaign-list.component.css",
+              "RelativeDocumentMoniker": "cotizadorusmediaapi.client\\src\\app\\campaign-list\\campaign-list.component.css",
+              "ToolTip": "C:\\Users\\emanuel.cubero\\source\\repos\\CotizadorUSMediaApi\\cotizadorusmediaapi.client\\src\\app\\campaign-list\\campaign-list.component.css",
+              "RelativeToolTip": "cotizadorusmediaapi.client\\src\\app\\campaign-list\\campaign-list.component.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-09-01T21:28:47.666Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "campaign-list.component.ts",
+              "DocumentMoniker": "C:\\Users\\emanuel.cubero\\source\\repos\\CotizadorUSMediaApi\\cotizadorusmediaapi.client\\src\\app\\campaign-list\\campaign-list.component.ts",
+              "RelativeDocumentMoniker": "cotizadorusmediaapi.client\\src\\app\\campaign-list\\campaign-list.component.ts",
+              "ToolTip": "C:\\Users\\emanuel.cubero\\source\\repos\\CotizadorUSMediaApi\\cotizadorusmediaapi.client\\src\\app\\campaign-list\\campaign-list.component.ts",
+              "RelativeToolTip": "cotizadorusmediaapi.client\\src\\app\\campaign-list\\campaign-list.component.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-08-31T18:40:28.278Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "campaign-form.component.spec.ts",
+              "DocumentMoniker": "C:\\Users\\emanuel.cubero\\source\\repos\\CotizadorUSMediaApi\\cotizadorusmediaapi.client\\src\\app\\campaign-form\\campaign-form.component.spec.ts",
+              "RelativeDocumentMoniker": "cotizadorusmediaapi.client\\src\\app\\campaign-form\\campaign-form.component.spec.ts",
+              "ToolTip": "C:\\Users\\emanuel.cubero\\source\\repos\\CotizadorUSMediaApi\\cotizadorusmediaapi.client\\src\\app\\campaign-form\\campaign-form.component.spec.ts",
+              "RelativeToolTip": "cotizadorusmediaapi.client\\src\\app\\campaign-form\\campaign-form.component.spec.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-09-01T21:25:24.077Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\emanuel.cubero\\source\\repos\\CotizadorUSMediaApi\\CotizadorUSMediaApi.Server\\Program.cs",
+              "RelativeDocumentMoniker": "CotizadorUSMediaApi.Server\\Program.cs",
+              "ToolTip": "C:\\Users\\emanuel.cubero\\source\\repos\\CotizadorUSMediaApi\\CotizadorUSMediaApi.Server\\Program.cs",
+              "RelativeToolTip": "CotizadorUSMediaApi.Server\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-31T19:08:09.321Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "app.component.html",
+              "DocumentMoniker": "C:\\Users\\emanuel.cubero\\source\\repos\\CotizadorUSMediaApi\\cotizadorusmediaapi.client\\src\\app\\app.component.html",
+              "RelativeDocumentMoniker": "cotizadorusmediaapi.client\\src\\app\\app.component.html",
+              "ToolTip": "C:\\Users\\emanuel.cubero\\source\\repos\\CotizadorUSMediaApi\\cotizadorusmediaapi.client\\src\\app\\app.component.html",
+              "RelativeToolTip": "cotizadorusmediaapi.client\\src\\app\\app.component.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-08-31T18:46:03.034Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": ".gitignore",
+              "DocumentMoniker": "C:\\Users\\emanuel.cubero\\source\\repos\\CotizadorUSMediaApi\\cotizadorusmediaapi.client\\.gitignore",
+              "RelativeDocumentMoniker": "cotizadorusmediaapi.client\\.gitignore",
+              "ToolTip": "C:\\Users\\emanuel.cubero\\source\\repos\\CotizadorUSMediaApi\\cotizadorusmediaapi.client\\.gitignore",
+              "RelativeToolTip": "cotizadorusmediaapi.client\\.gitignore",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-08-31T20:02:35.228Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "angular.json",
+              "DocumentMoniker": "C:\\Users\\emanuel.cubero\\source\\repos\\CotizadorUSMediaApi\\cotizadorusmediaapi.client\\angular.json",
+              "RelativeDocumentMoniker": "cotizadorusmediaapi.client\\angular.json",
+              "ToolTip": "C:\\Users\\emanuel.cubero\\source\\repos\\CotizadorUSMediaApi\\cotizadorusmediaapi.client\\angular.json",
+              "RelativeToolTip": "cotizadorusmediaapi.client\\angular.json",
+              "ViewState": "AgIAAEYAAAAAAAAAAAAAAB4AAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-31T22:35:48.479Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "styles.css",
+              "DocumentMoniker": "C:\\Users\\emanuel.cubero\\source\\repos\\CotizadorUSMediaApi\\cotizadorusmediaapi.client\\src\\styles.css",
+              "RelativeDocumentMoniker": "cotizadorusmediaapi.client\\src\\styles.css",
+              "ToolTip": "C:\\Users\\emanuel.cubero\\source\\repos\\CotizadorUSMediaApi\\cotizadorusmediaapi.client\\src\\styles.css",
+              "RelativeToolTip": "cotizadorusmediaapi.client\\src\\styles.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-08-31T22:37:51.303Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": ".gitignore",
+              "DocumentMoniker": "C:\\Users\\emanuel.cubero\\source\\repos\\CotizadorUSMediaApi\\.gitignore",
+              "RelativeDocumentMoniker": ".gitignore",
+              "ToolTip": "C:\\Users\\emanuel.cubero\\source\\repos\\CotizadorUSMediaApi\\.gitignore",
+              "RelativeToolTip": ".gitignore",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-09-01T19:12:27.488Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "proxy.conf.js",
+              "DocumentMoniker": "C:\\Users\\emanuel.cubero\\source\\repos\\CotizadorUSMediaApi\\cotizadorusmediaapi.client\\src\\proxy.conf.js",
+              "RelativeDocumentMoniker": "cotizadorusmediaapi.client\\src\\proxy.conf.js",
+              "ToolTip": "C:\\Users\\emanuel.cubero\\source\\repos\\CotizadorUSMediaApi\\cotizadorusmediaapi.client\\src\\proxy.conf.js",
+              "RelativeToolTip": "cotizadorusmediaapi.client\\src\\proxy.conf.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-08-31T18:43:03.825Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "CampaignController.cs",
+              "DocumentMoniker": "C:\\Users\\emanuel.cubero\\source\\repos\\CotizadorUSMediaApi\\CotizadorUSMediaApi.Server\\Controllers\\CampaignController.cs",
+              "RelativeDocumentMoniker": "CotizadorUSMediaApi.Server\\Controllers\\CampaignController.cs",
+              "ToolTip": "C:\\Users\\emanuel.cubero\\source\\repos\\CotizadorUSMediaApi\\CotizadorUSMediaApi.Server\\Controllers\\CampaignController.cs",
+              "RelativeToolTip": "CotizadorUSMediaApi.Server\\Controllers\\CampaignController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-31T15:21:09.27Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Campaign.cs",
+              "DocumentMoniker": "C:\\Users\\emanuel.cubero\\source\\repos\\CotizadorUSMediaApi\\CotizadorUSMediaApi.Server\\Models\\Campaign.cs",
+              "RelativeDocumentMoniker": "CotizadorUSMediaApi.Server\\Models\\Campaign.cs",
+              "ToolTip": "C:\\Users\\emanuel.cubero\\source\\repos\\CotizadorUSMediaApi\\CotizadorUSMediaApi.Server\\Models\\Campaign.cs",
+              "RelativeToolTip": "CotizadorUSMediaApi.Server\\Models\\Campaign.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-31T15:22:58.19Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "CotizadorUSMediaApi.Server.csproj",
+              "DocumentMoniker": "C:\\Users\\emanuel.cubero\\source\\repos\\CotizadorUSMediaApi\\CotizadorUSMediaApi.Server\\CotizadorUSMediaApi.Server.csproj",
+              "RelativeDocumentMoniker": "CotizadorUSMediaApi.Server\\CotizadorUSMediaApi.Server.csproj",
+              "ToolTip": "C:\\Users\\emanuel.cubero\\source\\repos\\CotizadorUSMediaApi\\CotizadorUSMediaApi.Server\\CotizadorUSMediaApi.Server.csproj",
+              "RelativeToolTip": "CotizadorUSMediaApi.Server\\CotizadorUSMediaApi.Server.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-31T15:21:37.531Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

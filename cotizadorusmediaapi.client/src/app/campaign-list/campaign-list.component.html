@@ -1,0 +1,33 @@
+<h2>Campaign List</h2>
+
+<table>
+  <thead>
+    <tr>
+      <th>ID</th>
+      <th>Vendedor</th>
+      <th>Cliente</th>
+      <th>Campaña</th>
+      <th>Anunciante</th>
+      <th>Plataforma</th>
+      <th>Inversión</th>
+      <th>Unidades</th>
+      <th>Margen</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr *ngFor="let campaign of campaigns">
+      <td>{{ campaign.id }}</td>
+      <td>{{ campaign.vendedor }}</td>
+      <td>{{ campaign.cliente }}</td>
+      <td>{{ campaign.campania }}</td> 
+      <td>{{ campaign.anunciante }}</td>
+      <td>{{ campaign.plataforma }}</td>
+      <td>{{ campaign.inversion }}</td> 
+      <td>{{ campaign.unidades }}</td>
+      <td>{{ campaign.margen }}</td>
+    </tr>
+  </tbody>
+</table>
+
+<p *ngIf="campaigns.length === 0">No campaigns available.</p>
+
