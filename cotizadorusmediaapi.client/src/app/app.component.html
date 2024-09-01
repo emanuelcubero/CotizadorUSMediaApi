@@ -1,0 +1,7 @@
+<h1>Campaign Management</h1>
+
+<app-campaign-list #campaignList></app-campaign-list>
+
+<hr>
+
+<app-campaign-form (campaignCreated)="campaignList.getCampaigns()"></app-campaign-form>

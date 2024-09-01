@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.34928.147
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CotizadorUSMediaApi.Server", "CotizadorUSMediaApi.Server\CotizadorUSMediaApi.Server.csproj", "{6BF12A3E-A94A-4C21-8A06-92835DE557A7}"
+EndProject
+Project("{54A90642-561A-4BB1-A94E-469ADEE60C69}") = "cotizadorusmediaapi.client", "cotizadorusmediaapi.client\cotizadorusmediaapi.client.esproj", "{795280AA-AE41-437E-83A7-2D68EB5A7669}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6BF12A3E-A94A-4C21-8A06-92835DE557A7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6BF12A3E-A94A-4C21-8A06-92835DE557A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6BF12A3E-A94A-4C21-8A06-92835DE557A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6BF12A3E-A94A-4C21-8A06-92835DE557A7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{795280AA-AE41-437E-83A7-2D68EB5A7669}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{795280AA-AE41-437E-83A7-2D68EB5A7669}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{795280AA-AE41-437E-83A7-2D68EB5A7669}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{795280AA-AE41-437E-83A7-2D68EB5A7669}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{795280AA-AE41-437E-83A7-2D68EB5A7669}.Release|Any CPU.Build.0 = Release|Any CPU
+		{795280AA-AE41-437E-83A7-2D68EB5A7669}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FBC303E6-C7EF-4F20-A08C-CFB635B4946D}
+	EndGlobalSection
+EndGlobal
