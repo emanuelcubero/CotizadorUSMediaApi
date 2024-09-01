@@ -3,7 +3,11 @@
 "ServerUrl": "https://localhost:4200",
 "RedirectUrl": "",
 "LaunchCommand": "npm start",
+<<<<<<< HEAD
 "WorkingDirectory": "C:\\Users\\emanuel.cubero\\source\\repos\\CotizadorUSMediaApi\\CotizadorUSMediaApi.Server\\..\\cotizadorusmediaapi.client",
+=======
+"WorkingDirectory": "C:\\Users\\emanuelcubero\\source\\repos\\CotizadorUSMediaApi\\CotizadorUSMediaApi.Server\\..\\cotizadorusmediaapi.client",
+>>>>>>> 2987ff744217c3b6fe7b273c7d59191933685dbf
 "MaxTimeoutInSeconds": "120",
 "KeepRunning": "false"
 }

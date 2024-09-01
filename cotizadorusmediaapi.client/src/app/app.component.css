@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 /* Estilo general para la aplicación */
 body {
   background-color: #FF5A00; /* Color naranja para el fondo */
@@ -56,4 +57,19 @@ nav {
   nav a {
     margin-bottom: 10px;
   }
+=======
+﻿:host {
+    max-width: 1280px;
+    padding: 2rem;
+    text-align: center;
+}
+
+th, td {
+    padding-left: 1rem;
+    padding-right: 1rem;
+}
+
+table {
+    margin: 0 auto;
+>>>>>>> 2987ff744217c3b6fe7b273c7d59191933685dbf
 }

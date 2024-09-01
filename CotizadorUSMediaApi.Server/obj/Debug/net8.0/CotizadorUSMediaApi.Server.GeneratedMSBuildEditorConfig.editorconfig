@@ -9,11 +9,19 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = CotizadorUSMediaApi.Server
 build_property.RootNamespace = CotizadorUSMediaApi.Server
+<<<<<<< HEAD
 build_property.ProjectDir = C:\Users\emanuel.cubero\source\repos\CotizadorUSMediaApi\CotizadorUSMediaApi.Server\
+=======
+build_property.ProjectDir = C:\Users\emanuelcubero\source\repos\CotizadorUSMediaApi\CotizadorUSMediaApi.Server\
+>>>>>>> 2987ff744217c3b6fe7b273c7d59191933685dbf
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+<<<<<<< HEAD
 build_property.MSBuildProjectDirectory = C:\Users\emanuel.cubero\source\repos\CotizadorUSMediaApi\CotizadorUSMediaApi.Server
+=======
+build_property.MSBuildProjectDirectory = C:\Users\emanuelcubero\source\repos\CotizadorUSMediaApi\CotizadorUSMediaApi.Server
+>>>>>>> 2987ff744217c3b6fe7b273c7d59191933685dbf
 build_property._RazorSourceGeneratorDebug = 

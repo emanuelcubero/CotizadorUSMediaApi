@@ -1,18 +1,34 @@
+<<<<<<< HEAD
 <h2>Create Campaign</h2>
 
 <form (ngSubmit)="onSubmit()" #campaignForm="ngForm">
   <div>
     <label for="vendedor">Vendedor:</label>
     <input type="text" id="vendedor" required [(ngModel)]="campaign.vendedor" name="vendedor">
+=======
+<h2>Create New Campaign</h2>
+<form #campaignForm="ngForm" (ngSubmit)="onSubmit(campaignForm)">
+  <div>
+    <label for="vendedor">Vendedor:</label>
+    <select id="vendedor" required [(ngModel)]="newCampaign.vendedor" name="vendedor">
+      <option value="John Doe">John Doe</option>
+      <!-- Agrega más opciones de vendedores aquí -->
+    </select>
+>>>>>>> 2987ff744217c3b6fe7b273c7d59191933685dbf
   </div>
 
   <div>
     <label for="cliente">Cliente:</label>
+<<<<<<< HEAD
     <input type="text" id="cliente" required [(ngModel)]="campaign.cliente" name="cliente">
+=======
+    <input type="text" id="cliente" required [(ngModel)]="newCampaign.cliente" name="cliente">
+>>>>>>> 2987ff744217c3b6fe7b273c7d59191933685dbf
   </div>
 
   <div>
     <label for="campania">Campaña:</label>
+<<<<<<< HEAD
     <input type="text" id="campania" required [(ngModel)]="campaign.campania" name="campania">
   </div>
 
@@ -43,3 +59,13 @@
 
   <button type="submit" class="button">Create Campaign</button>
 </form>
+=======
+    <input type="text" id="campania" required [(ngModel)]="newCampaign.campania" name="campania">
+  </div>
+
+  <!-- Añade más campos según sea necesario -->
+
+  <button type="submit" [disabled]="!campaignForm.form.valid">Crear Campaña</button>
+</form>
+
+>>>>>>> 2987ff744217c3b6fe7b273c7d59191933685dbf

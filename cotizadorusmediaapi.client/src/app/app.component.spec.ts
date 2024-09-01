@@ -1,20 +1,30 @@
 import { HttpClientTestingModule, HttpTestingController } from '@angular/common/http/testing';
 import { ComponentFixture, TestBed } from '@angular/core/testing';
 import { AppComponent } from './app.component';
+<<<<<<< HEAD
 import { CampaignService } from './campaign.service';
 import { Campaign } from './campaign';
+=======
+>>>>>>> 2987ff744217c3b6fe7b273c7d59191933685dbf
 
 describe('AppComponent', () => {
   let component: AppComponent;
   let fixture: ComponentFixture<AppComponent>;
   let httpMock: HttpTestingController;
+<<<<<<< HEAD
   let campaignService: CampaignService;
+=======
+>>>>>>> 2987ff744217c3b6fe7b273c7d59191933685dbf
 
   beforeEach(async () => {
     await TestBed.configureTestingModule({
       declarations: [AppComponent],
+<<<<<<< HEAD
       imports: [HttpClientTestingModule],
       providers: [CampaignService] 
+=======
+      imports: [HttpClientTestingModule]
+>>>>>>> 2987ff744217c3b6fe7b273c7d59191933685dbf
     }).compileComponents();
   });
 
@@ -22,17 +32,25 @@ describe('AppComponent', () => {
     fixture = TestBed.createComponent(AppComponent);
     component = fixture.componentInstance;
     httpMock = TestBed.inject(HttpTestingController);
+<<<<<<< HEAD
     campaignService = TestBed.inject(CampaignService); 
   });
 
   afterEach(() => {
     httpMock.verify(); 
+=======
+  });
+
+  afterEach(() => {
+    httpMock.verify();
+>>>>>>> 2987ff744217c3b6fe7b273c7d59191933685dbf
   });
 
   it('should create the app', () => {
     expect(component).toBeTruthy();
   });
 
+<<<<<<< HEAD
   it('should retrieve campaigns from the server', () => {
     const mockCampaigns: Campaign[] = [
       {
@@ -91,3 +109,20 @@ describe('AppComponent', () => {
     req.flush(newCampaign); 
   });
 });
+=======
+  it('should retrieve weather forecasts from the server', () => {
+    const mockForecasts = [
+      { date: '2021-10-01', temperatureC: 20, temperatureF: 68, summary: 'Mild' },
+      { date: '2021-10-02', temperatureC: 25, temperatureF: 77, summary: 'Warm' }
+    ];
+
+    component.ngOnInit();
+
+    const req = httpMock.expectOne('/weatherforecast');
+    expect(req.request.method).toEqual('GET');
+    req.flush(mockForecasts);
+
+    expect(component.forecasts).toEqual(mockForecasts);
+  });
+});
+>>>>>>> 2987ff744217c3b6fe7b273c7d59191933685dbf

@@ -1,6 +1,10 @@
 <h2>Campaign List</h2>
+<<<<<<< HEAD
 
 <table>
+=======
+<table *ngIf="campaigns.length > 0">
+>>>>>>> 2987ff744217c3b6fe7b273c7d59191933685dbf
   <thead>
     <tr>
       <th>ID</th>
@@ -19,15 +23,28 @@
       <td>{{ campaign.id }}</td>
       <td>{{ campaign.vendedor }}</td>
       <td>{{ campaign.cliente }}</td>
+<<<<<<< HEAD
       <td>{{ campaign.campania }}</td> 
       <td>{{ campaign.anunciante }}</td>
       <td>{{ campaign.plataforma }}</td>
       <td>{{ campaign.inversion }}</td> 
+=======
+      <td>{{ campaign.campania }}</td>
+      <td>{{ campaign.anunciante }}</td>
+      <td>{{ campaign.plataforma }}</td>
+      <td>{{ campaign.inversion }}</td>
+>>>>>>> 2987ff744217c3b6fe7b273c7d59191933685dbf
       <td>{{ campaign.unidades }}</td>
       <td>{{ campaign.margen }}</td>
     </tr>
   </tbody>
 </table>
+<<<<<<< HEAD
 
 <p *ngIf="campaigns.length === 0">No campaigns available.</p>
 
+=======
+<p *ngIf="campaigns.length === 0">No campaigns available.</p>
+
+
+>>>>>>> 2987ff744217c3b6fe7b273c7d59191933685dbf

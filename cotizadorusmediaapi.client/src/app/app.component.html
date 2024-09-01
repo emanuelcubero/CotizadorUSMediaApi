@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <header>
   <nav>
     <a routerLink="/">Home</a>
@@ -8,3 +9,12 @@
 <div class="content">
   <router-outlet></router-outlet>
 </div>
+=======
+<h1>Campaign Management</h1>
+
+<app-campaign-list #campaignList></app-campaign-list>
+
+<hr>
+
+<app-campaign-form (campaignCreated)="campaignList.getCampaigns()"></app-campaign-form>
+>>>>>>> 2987ff744217c3b6fe7b273c7d59191933685dbf

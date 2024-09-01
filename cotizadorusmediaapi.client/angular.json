@@ -37,8 +37,12 @@
               }
             ],
             "styles": [
+<<<<<<< HEAD
               "src/styles.css",
               "node_modules/bootstrap/dist/css/bootstrap.min.css"
+=======
+              "src/styles.css"
+>>>>>>> 2987ff744217c3b6fe7b273c7d59191933685dbf
             ],
             "scripts": []
           },
@@ -111,4 +115,8 @@
   "cli": {
     "analytics": false
   }
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> 2987ff744217c3b6fe7b273c7d59191933685dbf

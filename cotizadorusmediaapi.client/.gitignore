@@ -1,5 +1,8 @@
+<<<<<<< HEAD
 # See https://docs.github.com/get-started/getting-started-with-git/ignoring-files for more about ignoring files.
 
+=======
+>>>>>>> 2987ff744217c3b6fe7b273c7d59191933685dbf
 # Archivos generados por Angular
 node_modules/
 dist/
@@ -23,3 +26,7 @@ obj/
 *.userosscache
 *.sln.docstates
 *.vs/
+<<<<<<< HEAD
+=======
+
+>>>>>>> 2987ff744217c3b6fe7b273c7d59191933685dbf

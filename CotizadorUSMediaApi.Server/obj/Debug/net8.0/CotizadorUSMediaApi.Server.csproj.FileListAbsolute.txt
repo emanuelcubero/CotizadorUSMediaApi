@@ -33,4 +33,7 @@ C:\Users\emanuel.cubero\source\repos\CotizadorUSMediaApi\CotizadorUSMediaApi.Ser
 C:\Users\emanuel.cubero\source\repos\CotizadorUSMediaApi\CotizadorUSMediaApi.Server\obj\Debug\net8.0\CotizadorUSMediaApi.Server.pdb
 C:\Users\emanuel.cubero\source\repos\CotizadorUSMediaApi\CotizadorUSMediaApi.Server\obj\Debug\net8.0\CotizadorUSMediaApi.Server.genruntimeconfig.cache
 C:\Users\emanuel.cubero\source\repos\CotizadorUSMediaApi\CotizadorUSMediaApi.Server\obj\Debug\net8.0\ref\CotizadorUSMediaApi.Server.dll
+<<<<<<< HEAD
 C:\Users\emanuel.cubero\source\repos\CotizadorUSMediaApi\CotizadorUSMediaApi.Server\obj\Debug\net8.0\CotizadorUSMediaApi.Server.sourcelink.json
+=======
+>>>>>>> 2987ff744217c3b6fe7b273c7d59191933685dbf

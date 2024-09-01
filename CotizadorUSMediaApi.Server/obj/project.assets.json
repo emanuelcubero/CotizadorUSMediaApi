@@ -459,11 +459,18 @@
     ]
   },
   "packageFolders": {
+<<<<<<< HEAD
     "C:\\Users\\emanuel.cubero\\.nuget\\packages\\": {}
+=======
+    "C:\\Users\\emanuelcubero\\.nuget\\packages\\": {},
+    "C:\\Program Files\\DevExpress 24.1\\Components\\Offline Packages": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+>>>>>>> 2987ff744217c3b6fe7b273c7d59191933685dbf
   },
   "project": {
     "version": "1.0.0",
     "restore": {
+<<<<<<< HEAD
       "projectUniqueName": "C:\\Users\\emanuel.cubero\\source\\repos\\CotizadorUSMediaApi\\CotizadorUSMediaApi.Server\\CotizadorUSMediaApi.Server.csproj",
       "projectName": "CotizadorUSMediaApi.Server",
       "projectPath": "C:\\Users\\emanuel.cubero\\source\\repos\\CotizadorUSMediaApi\\CotizadorUSMediaApi.Server\\CotizadorUSMediaApi.Server.csproj",
@@ -472,6 +479,22 @@
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\emanuel.cubero\\AppData\\Roaming\\NuGet\\NuGet.Config",
+=======
+      "projectUniqueName": "C:\\Users\\emanuelcubero\\source\\repos\\CotizadorUSMediaApi\\CotizadorUSMediaApi.Server\\CotizadorUSMediaApi.Server.csproj",
+      "projectName": "CotizadorUSMediaApi.Server",
+      "projectPath": "C:\\Users\\emanuelcubero\\source\\repos\\CotizadorUSMediaApi\\CotizadorUSMediaApi.Server\\CotizadorUSMediaApi.Server.csproj",
+      "packagesPath": "C:\\Users\\emanuelcubero\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\emanuelcubero\\source\\repos\\CotizadorUSMediaApi\\CotizadorUSMediaApi.Server\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files\\DevExpress 24.1\\Components\\Offline Packages",
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\emanuelcubero\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 24.1.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+>>>>>>> 2987ff744217c3b6fe7b273c7d59191933685dbf
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -479,8 +502,15 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+<<<<<<< HEAD
         "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
+=======
+        "C:\\Program Files\\DevExpress 24.1\\Components\\System\\Components\\Packages": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
+        "https://api.nuget.org/v3/index.json": {},
+        "https://nuget.devexpress.com/BFufUZPB2h8WcBz5QMlh3u6DKetvmoQxWlNEv3jGj7vSFqQjWO/api/v3/index.json": {}
+>>>>>>> 2987ff744217c3b6fe7b273c7d59191933685dbf
       },
       "frameworks": {
         "net8.0": {
